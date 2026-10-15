@@ -17,3 +17,4 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 bash
+git cat-file -t ecb9783d17d505c63776f8ad9828fd01bcb0656a159424dbe050e128cb8da5c4
